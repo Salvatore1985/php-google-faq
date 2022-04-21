@@ -1,0 +1,19 @@
+#nav-logo a img {
+    height: 1.5rem;
+}
+
+i {
+    font-size: 1.2rem;
+}
+
+
+
+.my-user {
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+
+#nav-menu ul li {
+    list-style-type: none;
+}
